@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Damian Gawin
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Javascript
-- My projects Latest projects: <br>
+- My Latest projects: <br>
 https://kuchennemelodie.pl <br>
 https://podsiadlodesign.pl <br>
 https://inlibro.pl <br>
