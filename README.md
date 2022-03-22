@@ -2,7 +2,6 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Javascript
 - My Latest projects: <br>
-https://kuchennemelodie.pl <br>
 https://podsiadlodesign.pl <br>
 https://inlibro.pl <br>
 https://beaglezdoliny.pl <br>
