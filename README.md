@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Damian Gawin
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in web app development
 - 🌱 I’m currently learning Python and Javascript
 <!---
 damiangaw/damiangaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
